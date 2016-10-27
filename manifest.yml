@@ -1,0 +1,7 @@
+	---
+applications:
+- name: hw
+  memory: 256M
+  host: main
+  instances: 2
+  command: node hw.js
