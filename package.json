@@ -5,5 +5,8 @@
     "dependencies": {
         "http":"*"
     },
-    "author": "anu"
+    "author": "anu",
+    "scripts": {
+    "start": "Helloworld.js"
+}
 }
