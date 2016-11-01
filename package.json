@@ -7,6 +7,6 @@
     },
     "author": "anu",
     "scripts": {
-    "start": "Helloworld.js"
+    "start":"node Helloworld.js"
 }
 }
